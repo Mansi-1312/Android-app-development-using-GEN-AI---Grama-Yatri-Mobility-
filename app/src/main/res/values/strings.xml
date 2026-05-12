@@ -4,4 +4,8 @@
     <string name="title_activity_main">GramaYatri</string>
     <string name="package_name">com.gramayatri.app</string>
     <string name="custom_url_scheme">com.gramayatri.app</string>
+    <string name="login_title">GramaYatri Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
 </resources>
